@@ -8,13 +8,10 @@
 - 📹 [Recording (1h)](https://www.youtube.com/watch?v=sKZ0iufdjGc)
 - 🧩 [Mini project](./01%20Linear%20Regression.md)
 
-## 2. Binomial Classification
+## 2. Binomial Regression
 
-## 3. Clustering
-- 🧩 [Mini project](./02%20Clustering.md)
+## 3. Neural Networks
 
-## 4. Neural Networks
+## 3. Convolutional Neural Networks
 
-## 5. Convolutional Neural Networks
-
-## 6. Transformers
+## 4. Transformers
