@@ -12,6 +12,6 @@
 
 ## 3. Neural Networks
 
-## 3. Convolutional Neural Networks
+## 4. Convolutional Neural Networks
 
-## 4. Transformers
+## 5. Transformers
