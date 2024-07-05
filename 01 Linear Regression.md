@@ -5,13 +5,12 @@ Linear regression lets us predict the value of a dependent variable based on the
 ## Notebooks
 
 See the following notebooks:
-- [Linear Regression on a Parabola](https://colab.research.google.com/drive/1CNibITaVOTCrgaE1P_wi08UVHZqent2P)
-- [Single variable linear regression](https://colab.research.google.com/drive/1raqI-36METQPT9hcT5CzgACBwJ6PIW2I)
-- [Multivariate variable linear regression](https://colab.research.google.com/drive/1_AHWeBQqS-cXzQ2JghO2O6iOQIz-yKUb)
+- 📝 [Single variable linear regression](https://colab.research.google.com/drive/1raqI-36METQPT9hcT5CzgACBwJ6PIW2I)
+- 📝 [Multivariate variable linear regression](https://colab.research.google.com/drive/1_AHWeBQqS-cXzQ2JghO2O6iOQIz-yKUb)
 
 ## Datasets
 
-Choose any dataset you like, or one of the below!
+Choose any dataset you like, or one of the below! Then adapt one of the notebooks to use that dataset.
 
 1. Boston Housing Dataset: [Boston Housing Dataset on Kaggle](https://www.kaggle.com/c/boston-housing)
 2. Forest Fires Dataset: [Forest Fires Dataset on UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/162/forest+fires)
