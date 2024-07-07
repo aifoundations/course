@@ -11,7 +11,7 @@ Linear regression is a way to understand how one variable changes in relation to
 - 🧩 [Linear Regression Mini Project](./01%20Linear%20Regression.md)
 - 📹 [Examples of Linear Regression Mini Projects (1h)](https://www.youtube.com/watch?v=vSsFg3wlQ1c)
 
-## 2. Binomial Regression
+## 2. Logistic Regression
 Binomial regression is a way to understand how one variable affects the probability of a binary outcome (yes/no). In machine learning, it's used to predict these binary outcomes, helping with tasks like classification and risk assessment.
 - **Coming July 9, 2024**
 
