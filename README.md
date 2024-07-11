@@ -7,7 +7,7 @@
 ## 1. Linear Regression
 Linear regression is a way to understand how one variable changes in relation to another by fitting a straight line through the data. In machine learning, it's used to predict continuous values, helping with tasks like trend analysis and forecasting.
 - 📹 [Introduction to Linear Regression (1h)](https://www.youtube.com/watch?v=sKZ0iufdjGc)
-- 📝 [Linear Regression on a Parabola](https://colab.research.google.com/drive/1CNibITaVOTCrgaE1P_wi08UVHZqent2P)
+- 📝 [Regression with Scikit-Learn](https://colab.research.google.com/drive/1CNibITaVOTCrgaE1P_wi08UVHZqent2P)
 - 🧩 [Linear Regression Mini Project](./01%20Linear%20Regression.md)
 - 📹 [Examples of Linear Regression Mini Projects (1h)](https://www.youtube.com/watch?v=vSsFg3wlQ1c)
 
