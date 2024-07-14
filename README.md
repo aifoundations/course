@@ -13,6 +13,7 @@ Linear regression is a way to understand how one variable changes in relation to
 
 ## 2. Logistic Regression
 Binomial regression is a way to understand how one variable affects the probability of a binary outcome (yes/no). In machine learning, it's used to predict these binary outcomes, helping with tasks like classification and risk assessment.
+- 📹 [Introduction to Logistic Regression (1h)](https://www.youtube.com/watch?v=YOslWz8UdGs)
 - 🧩 [Logistic Regression Mini Project](./02%20Logistic%20Regression.md)
 
 ## 3. Neural Networks
