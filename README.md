@@ -19,7 +19,7 @@ Binomial regression is a way to understand how one variable affects the probabil
 
 ## 3. Neural Networks
 A neural network is made up of interconnected nodes that process data in layers and adjusted through backpropagation. In machine learning, it's used to predict outcomes and classify data, which is useful for tasks like image recognition, natural language processing, and forecasting.
-- **Coming July 16, 2024**
+- 🧩 [Neural Network Mini Project](./03%20Neural%20Networks.md)
 
 ## 4. Convolutional Neural Networks
 A Convolutional Neural Network (CNN) is a type of artificial neural network designed for processing grid-like data, such as images. It uses convolutional layers to automatically learn and extract features from the input data. In machine learning, CNNs are essential for tasks like image classification, object detection, and image segmentation.
