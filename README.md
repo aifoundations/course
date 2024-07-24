@@ -1,4 +1,6 @@
-# Course Structure
+# AI Foundations Course
+
+[AI Foundations](https://aifoundations.school/) is an cohort-based online program where you learn to build AI models from first principles alongside teachers and friends. All of our content and materials are available for free in this GitHub repository!
 
 ## 0. Introduction to Machine Learning
 - 📹 [Key Terminologies (5m)](https://www.youtube.com/watch?v=piFN5y-8Sno)
