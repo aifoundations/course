@@ -27,6 +27,7 @@ A neural network is made up of interconnected nodes that process data in layers 
 
 ## 4. Convolutional Neural Networks
 A Convolutional Neural Network (CNN) is a type of artificial neural network designed for processing grid-like data, such as images. It uses convolutional layers to automatically learn and extract features from the input data. In machine learning, CNNs are essential for tasks like image classification, object detection, and image segmentation.
+- 📹 [Introduction to Convolutional Neural Networks (1h)](https://www.youtube.com/watch?v=LUAgJYaw2eo)
 - 🧩 [Convolutional Neural Networks Mini Project](./04%20Convolutional%20Neural%20Networks.md)
 
 ## 5. Transformers
