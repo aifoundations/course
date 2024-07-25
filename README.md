@@ -30,6 +30,5 @@ A Convolutional Neural Network (CNN) is a type of artificial neural network desi
 - 📹 [Introduction to Convolutional Neural Networks (1h)](https://www.youtube.com/watch?v=LUAgJYaw2eo)
 - 🧩 [Convolutional Neural Networks Mini Project](./04%20Convolutional%20Neural%20Networks.md)
 
-## 5. Transformers
-Transformers are a type of deep learning model that processes sequential data by attending to all positions in the input data simultaneously. They utilize self-attention mechanisms to capture relationships between different parts of the input sequence effectively. In machine learning, Transformers are pivotal for tasks like natural language processing, translation, and generating text.
-- **Coming July 30, 2024**
+## 5. ???
+- **Coming August 1, 2024**
