@@ -11,3 +11,5 @@ See the following notebooks:
 ## Datasets
 
 Use the same dataset you used for the [Linear Regression Exercise](./01%20Linear%20Regression.md) or the [Logistic Regression Exercise](./02%20Logistic%20Regression.md) and train a simple neural network to perform the same task. Compare the results of the new model.
+
+When designing your model, you can experiment with parameters such as the number of layers, the number of neurons, and the activation function.
