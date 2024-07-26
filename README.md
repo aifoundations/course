@@ -5,11 +5,11 @@
 ## Contents
 
 0. [Introduction to Machine Learning](#0-introduction-to-machine-learning)
-1. Linear Regression
-2. Logistic Regression
-3. Neural Networks
-4. Convolutional Neural Networks
-5. Future topics
+1. [Linear Regression](#1-linear-regression)
+2. [Logistic Regression](#2-logistic-regression)
+3. [Neural Networks](#3-neural-networks)
+4. [Convolutional Neural Networks](#4-convolutional-neural-networks)
+5. [Future topics](#future-topics)
 
 ## 0. Introduction to Machine Learning
 - 📹 [Key Terminologies (5m)](https://www.youtube.com/watch?v=piFN5y-8Sno)
