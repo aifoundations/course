@@ -30,5 +30,12 @@ A Convolutional Neural Network (CNN) is a type of artificial neural network desi
 - 📹 [Introduction to Convolutional Neural Networks (1h)](https://www.youtube.com/watch?v=LUAgJYaw2eo)
 - 🧩 [Convolutional Neural Networks Mini Project](./04%20Convolutional%20Neural%20Networks.md)
 
-## 5. ???
-- **Coming August 1, 2024**
+## Future topics
+Future topics will include:
+- Generative adversarial networks for image generation
+- Autoencoders for compression/denoising
+- Recurrent neural networks for time series or sequence prediction
+- Long short-term memory RNNs for sequence prediction
+- Transformers for token prediction using attention
+
+Want to see a lesson on one of these topics? [Open an issue!](https://github.com/aifoundations/course/issues/new)
