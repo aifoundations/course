@@ -2,6 +2,15 @@
 
 [AI Foundations](https://aifoundations.school/) is an cohort-based online program where you learn to build AI models from first principles alongside teachers and friends. All of our content and materials are available for free in this GitHub repository!
 
+## Contents
+
+0. [Introduction to Machine Learning](#0-introduction-to-machine-learning)
+1. Linear Regression
+2. Logistic Regression
+3. Neural Networks
+4. Convolutional Neural Networks
+5. Future topics
+
 ## 0. Introduction to Machine Learning
 - 📹 [Key Terminologies (5m)](https://www.youtube.com/watch?v=piFN5y-8Sno)
 - 📹 [Introduction to Machine Learning (1h)](https://www.youtube.com/watch?v=9LK4ozoHddU)
