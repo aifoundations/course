@@ -43,7 +43,6 @@ A Convolutional Neural Network (CNN) is a type of artificial neural network desi
 Future topics will include:
 - Generative adversarial networks for image generation
 - Autoencoders for compression/denoising
-- Recurrent neural networks for time series or sequence prediction
 - Long short-term memory RNNs for sequence prediction
 - Transformers for token prediction using attention
 
