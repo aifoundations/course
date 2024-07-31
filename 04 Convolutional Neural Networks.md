@@ -9,7 +9,9 @@ See the following notebooks:
 
 ## Datasets
 
-Choose any dataset you like, or one of the below! Then adapt one of the notebooks to use that dataset.
+Choose any dataset you like, or one of the below! Then adapt the notebook above to use that dataset. Adjust the architecture of the model to get the best accuracy for your data.
+
+For datasets with a lot of data, feel free to just use a subset of the data provided. For datasetes with multiple classes, you can select just two, or use all of the classes! (Hint: If you make a classifier for more than two classes, you will need to use a softmax function, which we haven't taught you.
 
 1. Faces Dataset: [Faces Dataset on Kaggle](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
 2. Fashion Dataset: [Fashion on Kaggle](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
