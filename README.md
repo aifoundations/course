@@ -49,7 +49,6 @@ A LSTM is a type of neural network designed for working with sequences of data. 
 Future topics will include:
 - Generative adversarial networks for image generation
 - Autoencoders for compression/denoising
-- Long short-term memory RNNs for sequence prediction
 - Transformers for token prediction using attention
 
 Want to see a lesson on one of these topics? [Open an issue!](https://github.com/aifoundations/course/issues/new)
