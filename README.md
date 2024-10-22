@@ -42,8 +42,10 @@ A Convolutional Neural Network (CNN) is a type of artificial neural network desi
 - 📹 [Example of Convolutional Neural Networks Mini Project (1h)](https://www.youtube.com/live/BF5_jJUPjuU)
 
 ## 5. Long Short-Term Memory Networks
-A LSTM is a type of neural network designed for working with sequences of data. Unlike regular neural networks, LSTMs can remember information for long periods, making them useful for tasks like predicting time series, analyzing text, and recognizing speech.
+A LSTM is a type of recurrent neural network designed for working with sequences of data. Unlike regular neural networks, LSTMs can remember information for long periods, making them useful for tasks like predicting time series, analyzing text, and recognizing speech.
+- 📹 [Introduction to RNNs (1h)](https://www.youtube.com/watch?v=if0qsIcZTiU)
 - 🧩 [Long Short-Term Memory Networks Mini Project](./05%20LSTMs.md)
+- 📹 [Example of RNNs Mini Project (1h)](https://www.youtube.com/watch?v=yGagyJY3BhI)
 
 ## Future topics
 Future topics will include:
